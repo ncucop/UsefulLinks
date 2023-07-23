@@ -15,3 +15,4 @@ Repository of useful trading system links
 # Article
 1. https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 2. https://graphics.stanford.edu/~seander/bithacks.html
+3. https://rigtorp.se/low-latency-guide/
