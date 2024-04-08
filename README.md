@@ -17,3 +17,5 @@ Repository of useful trading system links
 2. https://graphics.stanford.edu/~seander/bithacks.html
 3. https://rigtorp.se/low-latency-guide/
 4. https://beej.us/guide/bgnet/html/
+5. https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_real_time/8/html-single/optimizing_rhel_8_for_real_time_for_low_latency_operation/index#proc_reducing-cpu-performance-spikes_optimizing-RHEL8-for-real-time-for-low-latency-operation
+6. https://docs.kernel.org/admin-guide/kernel-per-CPU-kthreads.html
