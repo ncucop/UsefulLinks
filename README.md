@@ -24,3 +24,4 @@ Repository of useful trading system links
 7. https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-1/
 8. https://www.1024cores.net
 9. https://fgiesen.wordpress.com
+10. https://preshing.com/
